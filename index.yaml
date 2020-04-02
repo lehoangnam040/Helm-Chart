@@ -3,11 +3,11 @@ entries:
   chart-backend:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-03-19T10:57:58.806424708+07:00"
+    created: "2020-04-02T14:47:42.239473994+07:00"
     description: A Helm chart for Backend
-    digest: d78f6eed22db47b53db10e4a86dc0ca7302a5355cb3971cb87673d9164bd8d60
+    digest: 912628229dbd5c51084339a8445fad8422a15ca1839c1fa2fed9286b60ceb248
     name: chart-backend
     urls:
     - chart-backend-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-19T10:57:58.805016893+07:00"
+generated: "2020-04-02T14:47:42.238278094+07:00"
